@@ -1,5 +1,4 @@
-##Proyecto: Base de datos Contoso 
-supermarket
+Proyecto: Base de datos Contoso supermarket
 
 Temática:
 El proyecto de base de datos para Contoso Supermarkets tiene como objetivo principal 
